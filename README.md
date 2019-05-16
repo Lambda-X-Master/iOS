@@ -46,12 +46,59 @@ Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Donec et odio pelle
 -   [x] Feature 4
 -   [x] Feature 5
 
+## _Authentication API here_
+
+🚫Replace text below with a description of the API
+
+Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things A little happy sunlight shining through there. Let all these little things happen. Don't fight them. Learn to use them. Even the worst thing we can do here is good.
+
+## _payment API here_
+
+🚫Replace text below with a description of the API
+
+This is the way you take out your flustrations. Get away from those little Christmas tree things we used to make in school. Isn't it fantastic that you can change your mind and create all these happy things? Everything's not great in life, but we can still find beauty in it.
+
+## _Misc API here_
+
+🚫Replace text below with a description of the API
+
+You can do anything your heart can imagine. In life you need colors. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Trees get lonely too, so we'll give him a little friend. We'll lay all these little funky little things in there.
+
+## _Misc API here_
+
+🚫Replace text below with a description of the API
+
+When you do it your way you can go anywhere you choose. Let your heart take you to wherever you want to be. If I paint something, I don't want to have to explain what it is. A tree needs to be your friend if you're going to paint him. That's a son of a gun of a cloud. Even the worst thing we can do here is good.
+
+## _Misc API here_
+
+🚫Replace text below with a description of the API
+
+Volunteering your time; it pays you and your whole community fantastic dividends. Maybe there's a happy little waterfall happening over here. You can spend all day playing with mountains. We don't have to be committed. We are just playing here. You have freedom here. The only guide is your heart. It's cold, but it's beautiful.
+
 ## Requirements
 
 🚫 These are examples, make sure this matches your project's rqurirements
 
 -   iOS 8.0+
 -   Xcode 7.3
+
+## plist files
+
+In order for the app to function correctly, the user must set up their own environment variables. There should be a .plist file containing the following:
+
+🚫⬇️These are just examples, replace them with the specifics for your app⬇️
+
+    *  apiKey - this is your Google API key, which can be generated in the Google Cloud Console
+    *  authDomain - when you set up your Firebase project, this information will be in the dashboard
+    *  databaseURL - in the Firebase dashboard
+    *  projectID - in the Firebase dashboard
+    *  storageBucket - in the Firebase dashboard
+    *  messagingSenderId - in the Firebase dashboard
+    *  stripe_API - this is your public Stripe API key, generated in the Stripe dashboard
+    *  backendURL - optional for your local development server
+    *  clientid - this is the Stripe_connect clientID, generated in Stripe_connect settings
+    *  stripe_plan - this is the ID for a second Stripe subscription plan, generated under Stripe products
 
 ## Usage example
 
