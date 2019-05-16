@@ -83,23 +83,6 @@ Volunteering your time; it pays you and your whole community fantastic dividends
 -   iOS 8.0+
 -   Xcode 7.3
 
-## plist files
-
-In order for the app to function correctly, the user must set up their own environment variables. There should be a .plist file containing the following:
-
-🚫⬇️These are just examples, replace them with the specifics for your app⬇️
-
-    *  apiKey - this is your Google API key, which can be generated in the Google Cloud Console
-    *  authDomain - when you set up your Firebase project, this information will be in the dashboard
-    *  databaseURL - in the Firebase dashboard
-    *  projectID - in the Firebase dashboard
-    *  storageBucket - in the Firebase dashboard
-    *  messagingSenderId - in the Firebase dashboard
-    *  stripe_API - this is your public Stripe API key, generated in the Stripe dashboard
-    *  backendURL - optional for your local development server
-    *  clientid - this is the Stripe_connect clientID, generated in Stripe_connect settings
-    *  stripe_plan - this is the ID for a second Stripe subscription plan, generated under Stripe products
-
 ## Usage example
 
 ```swift
