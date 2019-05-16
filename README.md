@@ -83,15 +83,6 @@ Volunteering your time; it pays you and your whole community fantastic dividends
 -   iOS 8.0+
 -   Xcode 7.3
 
-## Usage example
-
-```swift
-import EZSwiftExtensions
-ez.detectScreenShot { () -> () in
-    print("User took a screen shot")
-}
-```
-
 ## Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
