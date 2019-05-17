@@ -52,11 +52,11 @@ Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Donec et odio pelle
 
 Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things A little happy sunlight shining through there. Let all these little things happen. Don't fight them. Learn to use them. Even the worst thing we can do here is good.
 
-## _payment API here_
+## _Payment API here_
 
 🚫Replace text below with a description of the API
 
-This is the way you take out your flustrations. Get away from those little Christmas tree things we used to make in school. Isn't it fantastic that you can change your mind and create all these happy things? Everything's not great in life, but we can still find beauty in it.
+This is the way you take out your frustrations. Get away from those little Christmas tree things we used to make in school. Isn't it fantastic that you can change your mind and create all these happy things? Everything's not great in life, but we can still find beauty in it.
 
 ## _Misc API here_
 
@@ -78,7 +78,7 @@ Volunteering your time; it pays you and your whole community fantastic dividends
 
 ## Requirements
 
-🚫 These are examples, make sure this matches your project's rqurirements
+🚫 These are examples, make sure this matches your project's requirements
 
 -   iOS 8.0+
 -   Xcode 7.3
