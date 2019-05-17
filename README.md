@@ -18,7 +18,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.
 
-🚫⬇️Optional examples of using badges with links for your tech stack, make sure to change these to fit your project⬇️
+🚫⬇️Optional examples of using badges with links for your tech stack, make sure to change these to fit your project
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
