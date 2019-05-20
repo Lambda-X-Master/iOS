@@ -82,6 +82,7 @@ Volunteering your time; it pays you and your whole community fantastic dividends
 
 -   iOS 8.0+
 -   Xcode 7.3
+-   Cocoa Pods
 
 ## Contributing
 
