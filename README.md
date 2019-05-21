@@ -46,11 +46,11 @@ Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Donec et odio pelle
 
 ### Features
 
--   [x] Feature 1
--   [x] Feature 2
--   [x] Feature 3
--   [x] Feature 4
--   [x] Feature 5
+-    Feature 1
+-    Feature 2
+-    Feature 3
+-    Feature 4
+-    Feature 5
 
 ### Authentication API here
 
