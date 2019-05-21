@@ -36,7 +36,7 @@
 
 1️⃣ [Product Canvas](🚫add link to product canvas here)
 
-1️⃣ [UX Design files](🚫add link to product canvas here) - 🚫 delete if not applicable
+1️⃣ [UX Design files](🚫add link to design files here) - 🚫 delete if not applicable
 
 🚫 One to two paragraph statement about your product and what it does.
 
