@@ -28,7 +28,7 @@
 
 🚫 more info on using badges [here](https://github.com/badges/shields)
 
-## About this project
+## Project Overview
 
 1️⃣ You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
 
