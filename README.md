@@ -2,6 +2,10 @@
 
 🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your portfolio. This is intended to be a guideline. Feel free to add your own flare to it.
 
+🚫 The numbers 1️⃣ through 5️⃣ next to each item represent the week that part of the docs needs to be comepleted by.  Make sure to delete the numbers by the end of Labs.
+
+🚫 Each student has a required minimum number of meaningful PRs each week per the rubric.  Contributing to docs does NOT count as a PR to meet your weekly requirements.
+
 ## 4️⃣ Contributors
 
 🚫Add contributor info below, make sure add images and edit the social links for each member. Add or delete these place-holders as needed
@@ -12,13 +16,7 @@
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)            |          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)           |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)             |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |
 
-[Deployed App](add link to deployed app here)
-
-🚫 Short blurb about what your product does ⬇️
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.
-
-🚫⬇️Optional examples of using badges with links for your tech stack, make sure to change these to fit your project
+🚫 Optional examples of using badges with links for your tech stack, make sure to change these to fit your project
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
@@ -30,6 +28,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 🚫 more info on using badges [here](https://github.com/badges/shields)
 
+## 🚫  About this project
+
+1️⃣ You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
+
+1️⃣ [Trello Board](🚫add link to trello board here)
+
+1️⃣ [Product Canvas](🚫add link to product canvas here)
+
 🚫 One to two paragraph statement about your product and what it does.
 
 Quis hendrerit dolor magna eget. Pretium quam vulputate dignissim suspendisse. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Orci dapibus ultrices in iaculis nunc sed augue. Euismod in pellentesque massa placerat duis ultricies. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Lectus quam id leo in vitae. Purus sit amet luctus venenatis lectus magna fringilla urna porttitor.
@@ -38,7 +44,7 @@ Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Donec et odio pelle
 
 ![](header.png)
 
-## Features
+### Features
 
 -   [x] Feature 1
 -   [x] Feature 2
@@ -46,31 +52,31 @@ Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Donec et odio pelle
 -   [x] Feature 4
 -   [x] Feature 5
 
-## _Authentication API here_
+### Authentication API here
 
 🚫Replace text below with a description of the API
 
 Water's like me. It's laaazy ... Boy, it always looks for the easiest way to do things A little happy sunlight shining through there. Let all these little things happen. Don't fight them. Learn to use them. Even the worst thing we can do here is good.
 
-## _Payment API here_
+### Payment API here
 
 🚫Replace text below with a description of the API
 
 This is the way you take out your frustrations. Get away from those little Christmas tree things we used to make in school. Isn't it fantastic that you can change your mind and create all these happy things? Everything's not great in life, but we can still find beauty in it.
 
-## _Misc API here_
+### Misc API here
 
 🚫Replace text below with a description of the API
 
 You can do anything your heart can imagine. In life you need colors. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. I'm sort of a softy, I couldn't shoot Bambi except with a camera. Trees get lonely too, so we'll give him a little friend. We'll lay all these little funky little things in there.
 
-## _Misc API here_
+### Misc API here
 
 🚫Replace text below with a description of the API
 
 When you do it your way you can go anywhere you choose. Let your heart take you to wherever you want to be. If I paint something, I don't want to have to explain what it is. A tree needs to be your friend if you're going to paint him. That's a son of a gun of a cloud. Even the worst thing we can do here is good.
 
-## _Misc API here_
+### Misc API here
 
 🚫Replace text below with a description of the API
 
