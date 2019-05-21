@@ -36,6 +36,8 @@
 
 1️⃣ [Product Canvas](🚫add link to product canvas here)
 
+1️⃣ [UX Design files](🚫add link to product canvas here) - 🚫 delete if not applicable
+
 🚫 One to two paragraph statement about your product and what it does.
 
 Quis hendrerit dolor magna eget. Pretium quam vulputate dignissim suspendisse. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Orci dapibus ultrices in iaculis nunc sed augue. Euismod in pellentesque massa placerat duis ultricies. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Lectus quam id leo in vitae. Purus sit amet luctus venenatis lectus magna fringilla urna porttitor.
